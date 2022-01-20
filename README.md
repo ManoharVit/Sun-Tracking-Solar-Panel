@@ -1,0 +1,2 @@
+# Sun-Tracking-Solar-Panel
+A solar panel which is incident to the sun can gather more amount of solar energy in proper  orientation when it is attached to a motor. This motor is electrically connected to the controller  board. The system periodically checks the availability of solar energy from one horizon to other  horizon. In the scan it checks which direction has maximum incident solar energy and hence the  incident sun and positions the solar panel in that direction. In this way maximum power that can  be harnessed with the Solar Panel
